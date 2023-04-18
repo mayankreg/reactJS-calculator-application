@@ -6,8 +6,8 @@ calculator application using reactjs with operations + - % / * ^ square root cub
 
 #How to run App:
 
-download & extract in folder
-open folder with VS code
-make sure npm nodejs package is installed
-run npm install
-run npm start
+1) download & extract in folder
+2) open folder with VS code
+3) make sure npm nodejs package is installed
+4) run npm install
+5) run npm start
